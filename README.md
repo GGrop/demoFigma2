@@ -6,7 +6,7 @@ A simple Figma demo.
 
 ## 🎁 Figma
 
-https://www.figma.com/file/X4FYPxAMaU9Jk2MTyPEQWh/demo-figma-3?type=design&node-id=0%3A1&mode=design&t=rgM5BxYHTpUhEBX2-1
+ #### Click here 👉🏻 [Figma](https://www.figma.com/file/X4FYPxAMaU9Jk2MTyPEQWh/demo-figma-3?type=design&node-id=0%3A1&mode=design&t=rgM5BxYHTpUhEBX2-1)
 
 ## 🤲🏻 Feedback
 
